@@ -26,5 +26,11 @@ Registration form
 Password reset form
 <img width="2512" height="488" alt="Screenshot 2025-08-05 163029" src="https://github.com/user-attachments/assets/7f4407ca-ad61-443e-9004-16082ffdb0c7" />
 
-
+Further (planned) features:
+- Language translation workflow (Internationalization and Localization)
+- Improve application structure and employ blueprinting
+- Full-text in-app search
+- Deployment
+- User Notifications
+- API Packaging
 
