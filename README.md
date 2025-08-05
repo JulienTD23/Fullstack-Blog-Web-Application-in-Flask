@@ -1,9 +1,9 @@
 # Microblog <br/>
 Fullstack web application in Flask (Python)<br/>
 Blog app with the following features:
+- User authentication - Email registration, Login, Logout
 - User social network - follow/unfollow users, create/share public posts, view other users' blog posts (with pagination)
 - User profiles - view following/follower count, user avatar (w/ Gravatar), and one's own posts
-- User authentication - Registration, Login, Logout
 - User password reset form with email support + password reset tokenization + async emails
 - Detailed error handling - custom error pages, errors automatically logged to a file + sent to developers via email
 - Date & time with timezone conversions
